@@ -10,11 +10,11 @@ from tsp import TSP
 # Constants
 WIDTH = 800
 HEIGHT = 600
-FPS = 1000
+FPS = 120
 NODE_RADIUS = 5
 LINE_WIDTH = 2
 FONT_SIZE = 30
-ITER_PER_FRAME = 1000
+ITER_PER_FRAME = 10
 
 
 # Colors

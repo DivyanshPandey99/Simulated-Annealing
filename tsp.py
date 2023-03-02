@@ -5,7 +5,7 @@ import math
 
 
 class TSP:
-    def __init__(self, nodes, temp=10000, cooling=0.95):
+    def __init__(self, nodes, temp=10000, cooling=0.997):
         self.nodes = nodes
         self.num_nodes = len(nodes)
         self.temperature = temp
