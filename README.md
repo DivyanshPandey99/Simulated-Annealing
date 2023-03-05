@@ -8,3 +8,8 @@ Here, the Metaheuristic algorithm, Simulated Annealing is used to solve the TSP 
 ## Output
 
 ![](https://github.com/DivyanshPandey99/Simulated-Annealing/blob/main/SA-%20TSP.gif)
+
+## Reference 
+[Simulated Annealing Algorithms: An Overview - Rob A. Rutenbar](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=17235)
+
+[Simulated annealing applied to the traveling salesman problem](https://codecapsule.com/2010/04/06/simulated-annealing-traveling-salesman/)
