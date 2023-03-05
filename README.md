@@ -5,4 +5,6 @@ One of the oldest and simplest techniques for solving combinatorial optimization
 
 Here, the Metaheuristic algorithm, Simulated Annealing is used to solve the TSP and visualize it using Pygame.
 
+## Output
+
 ![](https://github.com/DivyanshPandey99/Simulated-Annealing/blob/main/SA-%20TSP.gif)
